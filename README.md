@@ -2,7 +2,7 @@
 
 > Computer Science student at Arizona State University
 
-- 📱 Assisted in development **Vanta**, a cross-platform fitness application
+- 📱 Assisted in development of **Vanta**, a cross-platform fitness application
 - 🤖 Interested in artificial intelligence and machine learning
 - 🧠 Experienced with AI specific search algorithms, reinforcement learning, and Bayesian networks
 - 💻 Working with React Native, TypeScript, Python, Java, C++, and SQL
