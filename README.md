@@ -12,6 +12,7 @@
 ## Featured Projects
 
 - [Vanta](https://trainwithvanta.com/) — Cross-platform fitness application built with React Native, Expo, TypeScript, and Supabase
+- [Tab Session Manager](https://github.com/Jacob6908/tab-session-manager) — Chrome extension for saving and restoring named sessions of browser tabs, with Jest unit tests and ESLint/Prettier tooling
 
 ## Tech Stack
 
